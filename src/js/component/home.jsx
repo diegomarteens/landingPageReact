@@ -1,6 +1,6 @@
 import React from "react";
 
-import { Navbar } from "./NavBar";
+import { Navbar } from "./Navbar";
 import { Jumbotrom } from "./Jumbotron";
 
 import PropTypes from "prop-types";
@@ -73,3 +73,5 @@ const styleOne = {
 	justifyContent: "space-between"
 	//alignItems: "center"
 };
+
+<Home />;

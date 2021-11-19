@@ -29,3 +29,5 @@ Content.propTypes = {
 	text: PropTypes.string,
 	button: PropTypes.string
 };
+
+<Content />;

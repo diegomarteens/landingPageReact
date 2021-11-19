@@ -12,6 +12,7 @@ export function Jumbotron() {
 			<a className="btn btn-success btn-lg" href="#" role="button">
 				Name of Button
 			</a>
+			<Jumbotron />
 		</div>
 	);
 }
