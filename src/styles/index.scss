@@ -1,13 +1,11 @@
 @import "~bootstrap/scss/bootstrap.scss";
 
-/* 
+.card {
+    display: flex;
+    align-items: center;
+}
 
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
-
-*/
+.card-bottom {
+    display: flex;
+    justify-content: center;
+}
