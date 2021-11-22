@@ -5,6 +5,7 @@ import { Jumbotron } from "./Jumbotron";
 
 import PropTypes from "prop-types";
 import { Content } from "./Content";
+import { Footer } from "./Footer";
 
 //create your first component
 export function Home() {
@@ -46,7 +47,7 @@ export function Home() {
 	return (
 		<div className="container-flex" id="app">
 			<Navbar />
-			<div className="container">
+			<div className="">
 				<Jumbotron />
 				<div className="row" style={styleOne}>
 					{info.map((element, i) => {
@@ -63,6 +64,7 @@ export function Home() {
 					})}
 				</div>
 			</div>
+			<Footer />
 		</div>
 	);
 }
