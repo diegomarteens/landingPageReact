@@ -1,7 +1,7 @@
 import React from "react";
 
 import { Navbar } from "./Navbar";
-import { Jumbotrom } from "./Jumbotron";
+import { Jumbotron } from "./Jumbotron";
 
 import PropTypes from "prop-types";
 import { Content } from "./Content";
@@ -47,7 +47,7 @@ export function Home() {
 		<div className="container-flex" id="app">
 			<Navbar />
 			<div className="container">
-				<Jumbotrom />
+				<Jumbotron />
 				<div className="row" style={styleOne}>
 					{info.map((element, i) => {
 						return (
@@ -73,5 +73,3 @@ const styleOne = {
 	justifyContent: "space-between"
 	//alignItems: "center"
 };
-
-<Home />;
