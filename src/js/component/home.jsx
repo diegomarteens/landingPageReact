@@ -12,35 +12,35 @@ export function Home() {
 	const info = [
 		{
 			image:
-				"https://www.dolphintrader.com/wp-content/uploads/2017/04/Triangular-Moving-Average-Forex-Trading-Strategy.png",
+				"http://cdn.home-designing.com/wp-content/uploads/2019/08/mega-mansion-for-the-rich.jpg",
 			description:
 				"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sit amet semper urna. Etiam in fringilla tortor. Vestibulum tellus turpis, blandit ultrices pharetra eget, elementum nec metus. Fusce molestie turpis.",
-			title: "Moving AVG",
-			button: "Trade Now"
+			title: "Mansion Insanely Rich",
+			button: "Check Now"
 		},
 		{
 			image:
-				"https://th.bing.com/th/id/R.7fbeeb7c9cbe827d951decc7ebc7137b?rik=EC4ebfXbxz%2b%2fNw&riu=http%3a%2f%2fwww.forexfunction.com%2fassets%2ffiles%2frsi-simple-trading-strategy.png&ehk=8Dhd21h1EMiijF0qLq2hGaofJAyYVvIQBdG69p4mwuA%3d&risl=&pid=ImgRaw",
+				"https://ccbsgreece.gr/wp-content/uploads/2016/02/Andromeda-Villas-Santorini.jpg",
 			description:
 				"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sit amet semper urna. Etiam in fringilla tortor. Vestibulum tellus turpis, blandit ultrices pharetra eget, elementum nec metus. Fusce molestie turpis.",
-			title: "RSI Indicator",
-			button: "Trade Now"
+			title: "Greek Mansion Style",
+			button: "Check Now"
 		},
 		{
 			image:
-				"https://www.dolphintrader.com/wp-content/uploads/2017/04/Triangular-Moving-Average-Forex-Trading-Strategy.png",
+				"https://hgtvhome.sndimg.com/content/dam/images/hgtv/fullset/2019/5/17/0/HUHH2019-Modern_Los-Angeles-CA_1.jpg.rend.hgtvcom.616.411.suffix/1558111675911.jpeg",
 			description:
 				"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sit amet semper urna. Etiam in fringilla tortor. Vestibulum tellus turpis, blandit ultrices pharetra eget, elementum nec metus. Fusce molestie turpis.",
-			title: "BB Strategy",
-			button: "Trade Now"
+			title: "Infinity Pool For Life",
+			button: "Check Now"
 		},
 		{
 			image:
-				"https://www.dolphintrader.com/wp-content/uploads/2017/04/Triangular-Moving-Average-Forex-Trading-Strategy.png",
+				"https://cdn.shopify.com/s/files/1/0567/3873/products/2_68fa39bb-cf13-42b0-a0e8-b4c32262223d.jpg?v=1565597925",
 			description:
 				"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sit amet semper urna. Etiam in fringilla tortor. Vestibulum tellus turpis, blandit ultrices pharetra eget, elementum nec metus. Fusce molestie turpis.",
-			title: "50 MA Strategy",
-			button: "Trade Now"
+			title: "Contemporany Mansion",
+			button: "Check Now"
 		}
 	];
 

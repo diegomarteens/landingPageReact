@@ -9,8 +9,8 @@ export function Jumbotron() {
 				vestibulum tristique dictum. Quisque sollicitudin aliquam ante,
 				ut rutrum nisl auctor.
 			</p>
-			<a className="btn btn-success btn-lg" href="#" role="button">
-				Name of Button
+			<a className="btn btn-secondary btn-sm" href="#" role="button">
+				Check More Info
 			</a>
 		</div>
 	);

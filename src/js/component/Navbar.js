@@ -4,8 +4,8 @@ export function Navbar() {
 	return (
 		<nav className="navbar navbar-expand-lg navbar-dark bg-dark">
 			<div className="container-fluid">
-				<a className="navbar-brand" href="#">
-					Contact Page
+				<a className="navbar-brand" href="null">
+					Silva & Silva Real Estate
 				</a>
 				<button className="navbar-toggler" type="button">
 					<span className="navbar-toggler-icon"></span>
@@ -25,14 +25,24 @@ export function Navbar() {
 						</li>
 						<li className="nav-item">
 							<a className="nav-link" href="#">
-								Bots
+								Find Your Home
 							</a>
 						</li>
-						{/* <li className="nav-item dropdown">
+						<li className="nav-item">
+							<a className="nav-link" href="#">
+								Mortgage
+							</a>
+						</li>
+						<li className="nav-item">
+							<a className="nav-link" href="#">
+								Sale With Us!
+							</a>
+						</li>
+						<li className="nav-item dropdown">
 							<a className="nav-link dropdown-toggle" href="#">
 								Dropdown
 							</a>
-						</li> */}
+						</li>
 						<ul className="dropdown-menu">
 							<li>
 								<a className="dropdown-item" href="#">
